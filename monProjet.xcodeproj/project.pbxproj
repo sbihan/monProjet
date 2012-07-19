@@ -37,20 +37,20 @@
 		27EBFA0515B836120015BFCF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		27EBFA0715B836120015BFCF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		27EBFA0915B836120015BFCF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		27EBFA0D15B836120015BFCF /* monProjet-Info.plist */ = {isa = PBXFileReference; path = "monProjet-Info.plist"; sourceTree = "<group>"; };
+		27EBFA0D15B836120015BFCF /* monProjet-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "monProjet-Info.plist"; sourceTree = "<group>"; };
 		27EBFA0F15B836120015BFCF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		27EBFA1115B836120015BFCF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		27EBFA1315B836120015BFCF /* monProjet-Prefix.pch */ = {isa = PBXFileReference; path = "monProjet-Prefix.pch"; sourceTree = "<group>"; };
-		27EBFA1415B836120015BFCF /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		27EBFA1315B836120015BFCF /* monProjet-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "monProjet-Prefix.pch"; sourceTree = "<group>"; };
+		27EBFA1415B836120015BFCF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		27EBFA1515B836120015BFCF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		27EBFA1815B836120015BFCF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		27EBFA1A15B836120015BFCF /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		27EBFA1A15B836120015BFCF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		27EBFA1B15B836120015BFCF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		27EBFA2215B836120015BFCF /* monProjetTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = monProjetTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27EBFA2315B836120015BFCF /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		27EBFA2B15B836120015BFCF /* monProjetTests-Info.plist */ = {isa = PBXFileReference; path = "monProjetTests-Info.plist"; sourceTree = "<group>"; };
+		27EBFA2B15B836120015BFCF /* monProjetTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "monProjetTests-Info.plist"; sourceTree = "<group>"; };
 		27EBFA2D15B836120015BFCF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		27EBFA2F15B836120015BFCF /* monProjetTests.h */ = {isa = PBXFileReference; path = monProjetTests.h; sourceTree = "<group>"; };
+		27EBFA2F15B836120015BFCF /* monProjetTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = monProjetTests.h; sourceTree = "<group>"; };
 		27EBFA3015B836120015BFCF /* monProjetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = monProjetTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
